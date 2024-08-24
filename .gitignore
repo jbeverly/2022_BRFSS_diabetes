@@ -1,0 +1,4 @@
+*.feather
+*.json
+*.XPT
+.virtual_documents
